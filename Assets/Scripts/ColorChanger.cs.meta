@@ -1,0 +1,21 @@
+fileFormatVersion: 2
+guid: 301b3702baaca74408f6b71a88030e8e
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - slider: {instanceID: 0}
+  - color1: {fileID: 2100000, guid: d1c702ff5d7e28c47aa9291ef553c722, type: 2}
+  - color2: {fileID: 2100000, guid: f72f2b0114e78614099d23f467ad73bd, type: 2}
+  - color3: {fileID: 2100000, guid: 2a1c15a104af7db41ad9ecb3ef3d8aa1, type: 2}
+  - color4: {fileID: 2100000, guid: f8cfbee8d925dc340bf166fbb4e830f0, type: 2}
+  - color5: {fileID: 2100000, guid: 74e7559fd81b33740a3600027488d036, type: 2}
+  - color6: {fileID: 2100000, guid: 37b7a038ab00a7144bdb8b0a2bdf23cd, type: 2}
+  - color7: {fileID: 2100000, guid: 106193569de938f40aa3465e0afce772, type: 2}
+  - color8: {fileID: 2100000, guid: 19b8e01f36cec1843a893956bee57d03, type: 2}
+  - cube: {instanceID: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
